@@ -1,0 +1,71 @@
+
+    <header>
+       <div class="slider">
+        <div class="fotos">
+            <img src="src/image/action-1839225_1920.jpg" alt="" class="exibir">
+            <img src="src/image/close-up-em-casal-com-bicicletas-eletricas.jpg" alt="">
+            <img src="src/image/mulher-bonita-usando-uma-forma-ecologica-de-transporte.jpg" alt="">
+            <div>
+                <div class="ant"></div>
+                <div class="prox"></div>
+            </div>
+        </div>
+       </div>
+    </header>
+    <main>
+        <div class="sidebar">
+            <nav class="sidebar_navigation">
+                <div>
+                    <ul>
+                        <li>
+                            <p>marca <a href=""><input type="checkbox" name="" id=""></a></p>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li>
+                            <p>
+                                estilo <a href=""> <input type="checkbox"></a>
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li>
+                            <p> aro <a href=""><input type="checkbox" name="" id=""></a></p>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li>
+                            <p> tipo <a href=""><input type="checkbox" name="" id="">
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </main>
+    <div class="footer-dark">
+        <footer>
+            <div class="container">
+                <div class="row">
+                   <img src="src/image/s943a.png" alt="">
+                   <div class="list">
+                    <ul>
+                        <li><a href="">sobre</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="">serviços</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="">companhia</a></li>
+                    </ul>
+                   </div>
+                   <img src="src/image/s944a (1).png" alt="">
+                </div>
+                <p class="copyright">Company Name © 2018</p>
+            </div>
+        </footer>
